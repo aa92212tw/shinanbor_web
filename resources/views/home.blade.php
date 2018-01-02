@@ -640,6 +640,5 @@ http://www.templatemo.com/tm-486-new-event
 <script src="js/smoothscroll.js"></script>
 <script src="js/wow.min.js"></script>
 <script src="js/custom.js"></script>
-
 </body>
 </html>
