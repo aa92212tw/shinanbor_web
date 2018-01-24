@@ -82,7 +82,7 @@ http://www.templatemo.com/tm-486-new-event
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 col-sm-12">
-				<h3 class="wow bounceIn" data-wow-delay="0.9s">台灣將近三十年食品機械製造商</h3>
+				<h3 class="wow bounceIn" data-wow-delay="0.9s">台灣將近二十年食品機械製造商</h3>
 				<h1 class="wow fadeInUp" data-wow-delay="1.6s">宣柏提供完整食品機械與整廠設備規劃到完整生產線設計</h1>
 				<a href="#overview" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="2.3s">瀏覽更多</a>
 				<a href="#register" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="2.3s">聯絡我們</a>
